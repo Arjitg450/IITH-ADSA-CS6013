@@ -1,4 +1,4 @@
 # IITH-ADSA-CS6013
-IIT hyderabad Advance Data Structure and Algorithms 
+IIT Hyderabad Advance Data Structure and Algorithms. This repo contains question papers
 
-This repo contains question papers
+
